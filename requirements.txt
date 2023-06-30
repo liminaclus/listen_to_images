@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+Pillow
+pytesseract
+pyttsx3
+PyQt5
